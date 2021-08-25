@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(236, 202, 5);
+}
+body {
+  background-color: rgb(235, 233, 155);
+}
+h2 {
+  color: rgb(104, 104, 238);
+  font-family:verdana;
+  font-size:160%;
+}
+p {
+  color: grey;
+  font-family:courier;
+  font-size:160%;
+}
